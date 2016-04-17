@@ -1,0 +1,1418 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Child Theme Configurator"
+msgstr ""
+
+#. Short description.
+msgid "Create child themes and customize styles, templates and functions. Enqueues stylesheets and web fonts. Handles rgba, vendor-prefixes and more."
+msgstr ""
+
+#. Screenshot description.
+msgid "Parent/Child tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "Parent/Child tab with parent theme menu open"
+msgstr ""
+
+#. Screenshot description.
+msgid "Query/Selector tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "Property/Value tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "Web Fonts tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "Parent CSS tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "Files tab"
+msgstr ""
+
+#. Found in description header.
+msgid "Take Control of Your Child Themes"
+msgstr ""
+
+#. Found in description header.
+msgid "Why create child themes and customize styles using the Child Theme Configurator?"
+msgstr ""
+
+#. Found in description header.
+msgid "Child Theme Configurator PRO"
+msgstr ""
+
+#. Found in description header.
+msgid "Unlimited Widget Content With a Single Plugin"
+msgstr ""
+
+#. Found in description header.
+msgid "IntelliWidget Responsive Menu"
+msgstr ""
+
+#. Found in description list item.
+msgid "Update themes without losing customizations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enqueue (link) stylesheets instead of using @import"
+msgstr ""
+
+#. Found in description list item.
+msgid "Customize @media queries for responsive design"
+msgstr ""
+
+#. Found in description list item.
+msgid "Copy existing widgets, menus and other options to child theme"
+msgstr ""
+
+#. Found in description list item.
+msgid "Select hex, RGBA (transparent) and named colors using Spectrum color picker"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add fallback styles (multiple values per property)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Resolve common child theme issues with almost any parent theme"
+msgstr ""
+
+#. Found in description list item.
+msgid "Save hours of development time"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multisite compatible"
+msgstr ""
+
+#. Found in description list item.
+msgid "Make modifications unavailable to the Customizer"
+msgstr ""
+
+#. Found in description list item.
+msgid "Export child themes as Zip Archive"
+msgstr ""
+
+#. Found in description list item.
+msgid "Use web fonts in your child theme"
+msgstr ""
+
+#. Found in description list item.
+msgid "Identify and override exact selectors from the parent theme"
+msgstr ""
+
+#. Found in description list item.
+msgid "Change specific colors, backgrounds, font styles, etc., without changing other elements"
+msgstr ""
+
+#. Found in description list item.
+msgid "Automatically generate cross-browser and vendor-prefixed properties and CSS gradients"
+msgstr ""
+
+#. Found in description list item.
+msgid "Preview custom styles before committing to them"
+msgstr ""
+
+#. Found in description list item.
+msgid "Uses WP Filesystem API – will not create files you cannot remove"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Child Theme Configurator is a fast and easy to use CSS editor that allows you to create a child theme and customize it beyond the options of the Customizer. Designed for WordPress users who want to be able to customize stylesheets directly, the Child Theme Configurator lets you easily identify and override the exact CSS attributes you want to customize. It properly enqueues theme and font stylesheets for optimum performance and handles vendor-specific syntax, giving you unlimited control over your WordPress look and feel while leaving your Parent Theme untouched. <a href=\"http://www.childthemeconfigurator.com\">Learn more about how to create a child theme</a>."
+msgstr ""
+
+#. Found in description paragraph, faq paragraph.
+msgid "https://www.youtube.com/watch?v=NQ1M-ZlRScY"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The Child Theme Configurator parses and indexes your stylesheets so that every CSS media query, selector, property and value are at your fingertips. Second, it shows you how each customization you make will look before you commit it to the child theme. Finally, it saves your work so that you can customize styles in your child themes without the risk of losing your edits."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can create any number of child themes from your existing Parent Themes. The Child Theme Configurator lets you choose from your installed themes (even existing child themes) and save the results in your Themes directory."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "When you are ready, just activate the Child Theme and your WordPress site takes on the custom styles automatically."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Apply the CSS customizing power of Child Theme Configurator to any WordPress Plugin installed on your website. Child Theme Configurator PRO scans your plugins and lets you customize their stylesheets. We’ve added more features to make customizing styles quicker and easier with PRO."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=fktwCk43a8c"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Learn more at http://www.childthemeconfigurator.com/child-theme-configurator-pro"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "IntelliWidget is a versatile widget manager that does the work of multiple plugins by combining custom page menus, featured posts, sliders and other dynamic content features that can display on a per-page or site-wide basis."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=Ttw1xIZ2b-g"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Learn more at http://www.lilaeamedia.com/plugins/intelliwidget"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Break free from your theme's built-in responsive menu options and take control over the mobile user experience with our premium menu plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=JDbxvaEt7VE"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Learn more at http://www.lilaeamedia.com/plugins/intelliwidget-responsive-menu"
+msgstr ""
+
+#. Found in installation header.
+msgid "10 Easy Steps to Create a Child Theme"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In the WordPress Admin, go to \"Plugins &gt; Add New.\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Type \"child theme\" in the \"Search\" box and click \"Search Plugins.\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Locate \"Child Theme Configurator\" in the list and click \"Install Now.\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the Child Theme Configurator plugin from http://wordpress.org/plugins/child-theme-configurator"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click the \"Upload\" link at the top of the page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Browse for the zip file, select and click \"Install.\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>In the WordPress Admin, go to \"Plugins &gt; Installed Plugins.\" Locate \"Child Theme Configurator\" in the list and click \"Activate.\"</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Navigate to Tools &gt; Child Themes (multisite users go to Network Admin &gt; Themes &gt; Child Themes).</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Select the theme you want to configure from the \"Parent Theme\" menu.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Select \"new\" or \"existing\".</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Optional: Enter a Name, Theme Website, Author, Author Website, Description, Tags and Version for the child theme.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Optional: Copy Parent Theme Menus, Widgets and other Options. NOTE: This will overwrite any child theme options you may have already set.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<a href=\"http://www.childthemeconfigurator.com/how-to-use/#stylesheet_handling\">See our website for more information about which option to use</a> "
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Optional: Save Backup</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Optional: Reset/Restore from backup.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Optional: Choose additional stylesheets. Stylesheets that are currently used by the parent theme are automatically selected.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Click \"Generate/Rebuild Child Theme Files.\"</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>IMPORTANT: Always test child themes with Live Preview (theme customizer) before activating!</p>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "To install from the Plugins repository:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "To install manually:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In the WordPress Admin, go to \"Plugins &gt; Installed Plugins.\" Locate \"Child Theme Configurator\" in the list and click \"Activate.\""
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Navigate to Tools &gt; Child Themes (multisite users go to Network Admin &gt; Themes &gt; Child Themes)."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Select the theme you want to configure from the \"Parent Theme\" menu."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Select \"new\" or \"existing\"."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Optional: Enter a Name, Theme Website, Author, Author Website, Description, Tags and Version for the child theme."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Optional: Copy Parent Theme Menus, Widgets and other Options. NOTE: This will overwrite any child theme options you may have already set."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Choose stylesheet handling:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Optional: Save Backup"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Optional: Reset/Restore from backup."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Optional: Choose additional stylesheets. Stylesheets that are currently used by the parent theme are automatically selected."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Click \"Generate/Rebuild Child Theme Files.\""
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "IMPORTANT: Always test child themes with Live Preview (theme customizer) before activating!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: regression bug in 1.7.9 causing new property menu to fail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: use nonce when retrieving front-end html to parse default additional stylesheets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored classes to make Child Theme Configurator more lightweight on front end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: disable autoload on configuration data options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: normalize media query and add to menu when added via raw css"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Margin and Padding shorthand generated incorrectly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Addressed case where parent or child theme is in subdirectory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minimized admin CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sanitize child theme slug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove cascade load order comments from generated CSS"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set admin background to prevent theme override"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored background normalization function to better follow CSS specification."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Check child theme exists function case-insensitive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed chldthmcfg.init() call to fire on load instead of .ready() to prevent JS conflicts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Uses spectrum color picker to support transparency and named colors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored entire system to support fallback values for any property."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix path when duplicating child theme on first run"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: \"delete child values\" button - easily revert custom styles in child theme stylesheet"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Will not write child theme stylesheet if error detected in functions.php "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed minified JS "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Restored multisite admin menu link under Tools by popular demand"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Automatically Network enables new child theme on creation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for FTP notice - now uses PHP_OS constant to detect win vs nix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added duplicate child theme feature "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "1.7.3.1 added dismiss option to warnings by popular demand."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed @import tab to \"Web Fonts.\" @import statements are automatically converted to enqueued external links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added \"Enqueue both parent and child stylesheets\" option to enable child theme overrides without using @import."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added checks for hard-coded link tags in header template to help resolve incorrect stylesheet load order."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: \"Enqueue child stylesheet\" now passes correct value."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: hide called before iris init"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: @import not being written on rebuild/configure"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: min height on property/value panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Only prune child theme selectors on rename"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed conflicting wistia javascript link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Enqueue child theme stylesheet option for themes that do not load it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Child Theme and Author website, description and tag fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Redesigned UI Javascript using jQuery objects for better browser memory management."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Child Theme Stylesheet version is timestamped to force browser reload after changes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Empty functions file created causing inserted markers to be output to browser."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: check for closed PHP tag in functions file prior to inserting markers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: undefined constant LILAEAMEDIA_URL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: logic to determine whether to display config notice"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: incorrect path generation and validation on Windows servers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added error handling and notification to prevent jQuery conflicts and out of memory conditions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: removed max-height on property/value overlay"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added debug option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Copy selector button for Raw CSS textarea on Query/Selector tab."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Menus rendering incorrectly for RTL locales"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Border-top etc. not being written correctly to stylesheet"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Refactored ajax semaphore logic and flow"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Better child theme handling for multisite. Moved interface to Themes menu and check for network enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Restrict child theme configurator access to install_themes capability"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Preview links to Themes admin if not network enabled to prevent 'Cheatin, uh?' error."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: only users with \"install_themes\" capability have access to the Child Theme Configurator. This resolves permission issues with both multisite and single site installs. <strong>MULTISITE USERS:</strong> The Admin HAS MOVED to Network Admin &gt; Themes &gt; Child Themes for better handling for multisite (network) installs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Regular expression introduced in version 1.6.2 parses selectors incorrectly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: replaced wp_normalize_path with class method to support legacy WP versions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: support for multiple layered background images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: background:none being parsed into gradient origin parameter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: support for data URIs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: support for *= and ^= notation in selectors "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: add check if theme uses hard-wired stylesheet link and alert to use @import instead of link option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: conflicts with using jQuery UI from CDN - using local version of 1.11.2 Widget/Menu/Selectmenu instead"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: using wp-color-picker handle instead of iris as dependency to make sure wpColorPicker() methods are loaded"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: copy parent theme widgets logic is different when child theme is active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: option to load parent stylesheet using wp_enqueue_style (link), @import or none. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Thanks to cmwwebfx and Shapeshifter3 for pushing me on this "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: automatically-generated slug and name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: restore from backup and reset options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: backup files to \"Child Theme Files\" on Files Tab so they can be deleted"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Added new theme chooser select menu with screenshot, theme info and link to live preview."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Admin scripts now only load when CTC page is being viewed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: parent CSS preview to correctly display all parsed parent stylesheets in sequence"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Refactored throughout for maintainability"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Load imported stylesheets into the CTC admin so web fonts can be previewed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set preview swatch to z-index -1 to prevent it from covering up the controls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Spread config data across multiple option records to prevent out of memory errors with large stylesheets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Do not automatically select Bootstrap CSS files as additional stylesheets to (greatly) reduce overhead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add jQuery UI styles that are no longer being loaded by default in the WP admin (autoselect menus)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug in the way zero values are handled that was breaking css output in certain situations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added regex filter for non-printable (e.g., null) characters in input strings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug introduced in v1.5.2(.1) that copied all of the parent styles to the child theme stylesheet. This should only be an issue for 'background-image' styles that reference images in the parent theme and do not have child theme overrides."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rolled back changes to the javascript controller that introduced a number of type errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweaked preview ajax call to handle ssl."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Automatically set additional stylesheets to parse based on parent theme links in head."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Render parent CSS including additional stylesheets "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added copy option to Parent/Child tab to assign menu locations, sidebars/widgets, custom header, background, and other options to new Child Themes. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored CTC to use the WP_Filesystem API. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Non suExec configurations will now require user credentials to add, remove or update Child Theme files. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability for you to make the files writable while editing and then make them read-only when you are done."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can also set your credentials in wp-config.php: http://codex.wordpress.org/Editing_wp-config.php#WordPress_Upgrade_Constants"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed backreference in main CSS parser regex due to high memory usage."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed uninitialized variable in files UI."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: export child themes as zip archive"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added transform to list of vendor properties"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: parser not loading multiple instances of same @media rulesets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored uploader to use wp core functions for compatibility and security"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased CHLD_THM_CFG_MAX_RECURSE_LOOPS to 1000 to accommodate complex parent frameworks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: javascript bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: regression bug - sanitizing broke raw input selectors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: escape quotes in text inputs. This has bugged me for a while now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Escape backslash for octal content values. Thanks Laurent for reporting this."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Normalize colors to lowercase and short form when possible to prevent duplicate entries in the data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored the way CTC caches updates and returns them to the UI controller to reduce memory consumption. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prevent out of memory fatals when generating new child themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed \"Scan Parent for Additional Stylesheets\" to individual checkbox options for each file with a toggle to show/hide in the Parent/Child tab."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added automatic update of form when Parent Theme is changed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pre-populate Parent/Child form when parent slug is passed to CTC options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated parser to match selectors containing parentheses and empty media rulesets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweaked the Files tab options and added check for DISALLOW_FILE_EDIT"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed automatic @import rules for additional stylesheets that are loaded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug caused by new jQuery .css function handling of empty css values (preview swatch)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Theme Files tab: "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Copy parent templates to child themes to be edited using the Theme Editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove child theme templates. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upload child theme images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove child theme images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upload child theme screenshot."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes a bug with the way the @import data is stored that threw errors on php 5.3 and corrupted v1.3.2 @import data."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: option to scan parent theme for additional stylesheets. This allows CTC to be used with themes such as \"Responsive\" by CyberChimps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: automatically copies parent theme screenshot to child. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed unquoted regex pattern in file path security check function. Thanks to buzcuz for reporting this."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated help tab content. Added additional sanitization of source and target file paths."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed CSS preview to retrieve directly from WordPress Admin instead of remote http GET to prevent caching issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added loading icon for CSS preview."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed JS type error on backup toggle."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved extensibility throughout."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replace PHP short tags with standard codes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Features: You can now rename selectors in place from the Query/Selector panel. Made stylesheet backup optional. Bugs fixed: Incorrect parsing of background position when '0', fixed type error when background image url value is removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugs fixed: \"star hack\" properties no longer throwing js error. Important flag now works on borders and gradients."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New features: Link to Query/Selector tab from specific Property/Value selector, new property focus on adding new property. Bugs fixed: clear Query/Selector inputs when loaded selector is empty, use latest min.js script."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added check for writability before attempting to create child theme files to avoid fatal error on servers not running suEXEC. Fixed a bug in the ctc_update_cache function that was throwing a fatal JS error when new media queries were saved via the Raw CSS input. Configurator now adds functions.php file to child theme when it does not exist."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added reorder sequence and important flag functionality. Fixed bug where multiple inputs with same selector/property combo were assigned the same id. Fixed bug in the shorthand encoding routine. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added tutorial video to help tabs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added call to reset_updates() before update_option() to prevent serialization errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Query/Selector panel now defaults to 'base'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug causing background-image with full urls (http://) to be parsed as gradients"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug causing property menu to throw error when selector has no properties"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed sort bug in shorthand parser that was returning properties in wrong order"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that assumed lowercase only for theme slugs. (Thanks to timk)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed update redirect to execute on first run"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug fix to javascript (casting number to string)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed major bug where inputs containing '0' were being ignored"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed \"no leading digits\" requirement for theme slug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change query sort function to keep parent order of queries without device width rules"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed gettext calls to use static namespace parameter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Auto populate child theme inputs when existing theme is selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Correctly remove border when values are blanked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed duplicate \"new property\" bug on Query/Selector panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added timestamp to backup file "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added encode_shorthand function to recombine margin/padding values when all 4 sides are present"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Corrected parsing for certain backgrounds and gradients (e.g., supports hsla color syntax)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Handle empty selectors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ajax load for menus and updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clean up Parent/Child form UI and validation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Streamlined UI overall"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release."
+msgstr ""
+
+#. Found in faq header.
+msgid "Is there a tutorial?"
+msgstr ""
+
+#. Found in faq header.
+msgid "If the parent theme changes (e.g., upgrade), do I have to update the child theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "If I uninstall Child Theme Configurator are child themes affected?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I add comments?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does it work with Multisite?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does it work with plugins?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why doesn't this work with my [insert vendor here] theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will this slow down my site?"
+msgstr ""
+
+#. Found in faq header.
+msgid "HELP! I changed a file and now I am unable to access my website or login to wp-admin to fix it!"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why are my menus displaying incorrectly when I activate new child themes?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why is my custom header missing when I activate new child themes?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why does my custom background go back to the default when I activate new child themes?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why do my theme options disappear when I activate new child themes?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where is Child Theme Configurator in the Admin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I add Web Fonts?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why doesn't the Parent Theme have any styles when I \"View Parent CSS\"?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where are the styles? The configurator doesn't show anything!"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why do the preview tabs return \"Stylesheet could not be displayed\"?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I edit the Child Theme stylesheet manually offline or by using the Editor or do I have to use the Configurator?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where are the child theme .php files?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I customize a specific color/font style/background?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I add custom styles that aren't in the Parent Theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I remove a style from the Parent Theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I remove a style from the Child Theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I set the !important flag?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I create cross-browser gradients?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I make my Theme responsive?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Child Theme Configurator creates or updates files that are already being read by the system. On the front-end, there are no database calls so WordPress can run independent of the plugin. In fact, you can remove Child Theme Configurator when you are finished setting up your child themes."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Custom styles are applied to a stylesheet file that can be cached by the browser and/or cached and minimized by a performance caching plugin. Because the editor creates mostly \"overrides\" to existing styles, the file is typically smaller than other stylesheets."
+msgstr ""
+
+#. Found in faq list item.
+msgid "The code that drives the editor interface only loads when the tool is being used from the WordPress Admin, including Javascript and CSS. This means that it will not get in the way of other admin pages."
+msgstr ""
+
+#. Found in faq list item.
+msgid "The biggest performance hit occurs when you generate the Child Theme files from the Parent/Child tab, but this is a one-time event and only occurs from the WordPress Admin."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Avoiding fixed width and height values. Using max- and min-height values and percentages are ways to make your designs respond to the viewer's browser size."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Combining floats and clears with inline and relative positions allow the elements to adjust gracefully to their container's width."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Showing and hiding content with Javascript."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No. This is the point of using child themes. Changes to the parent theme are automatically inherited by the child theme."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A child theme is not a \"copy\" of the parent theme. It is a special feature of WordPress that let's you override specific styles and functions leaving the rest of the theme intact. Quality themes should identify any deprecated functions or styles in the upgrade notes so that child theme users can make adjustments accordingly."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No. Child Theme Configurator is designed to work independently of themes and plugins. Just remember that if you re-install, you must rebuild the configuration data using the Parent/Child tab."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Arbitrary comments are not supported. Providing a high level of flexibility for previewing and modifying custom styles requires sophisticated parsing and data structures. Maintaining comments that bound to any particular element in the stylesheet is prohibitively expensive compared to the value it would add. Although we are working to include this as an option in the future, currently all comments are stripped from the child theme stylesheet code."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. Go to \"Network Admin &gt; Themes &gt; Child Themes.\" Child themes must be \"Network enabled\" to preview and activate for Network sites."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Child Theme Configurator PRO brings the CSS editing power of Child Theme Configurator to any WordPress Plugin installed on your website by scanning your plugins and creating custom CSS in your Child Themes. Learn more at http://www.childthemeconfigurator.com/child-theme-configurator-pro"
+msgstr ""
+
+#. Found in faq paragraph, remaining content paragraph.
+msgid "Some themes (particularly commercial themes) do not correctly load parent template files or automatically load child theme stylesheets or php files."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This is unfortunate, because in the best case they effectively prohibit the webmaster from adding any customizations (other than those made through the admin theme options) that will survive past an upgrade. <strong>In the worst case they will break your website when you activate the child theme.</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Contact the vendor directly to ask for this core functionality. It is our opinion that ALL themes (especially commercial ones) must pass the Theme Unit Tests outlined by WordPress.org and ALWAYS TEST CHILD THEMES BEFORE ACTIVATING (See \"Preview and Activate\")."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Child Theme Configurator is designed to add the minimum amount of additional overhead possible and can actually improve performance. <strong>For example:</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To back out of a broken child theme you have to manually rename the offending theme directory name (via FTP, SSH or your web host control panel file manager) so that WordPress can’t find it. WordPress will then throw an error and revert back to the default theme (currently twenty-fifteen)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The child theme is in your themes folder, usually"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "[wordpress]/wp-content/themes/[child-theme]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To prevent this in the future, always test child themes with Live Preview (theme customizer) before activating."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "...or..."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "These options are specific to each theme and are saved separately in the database. When you create new child themes, their options are blank."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Many of these options can be copied over to the child theme by checking \"Copy Parent Theme Menus, Widgets and other Options\" when you generate the child theme files on the Parent/Child tab."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you want to set different options you can either apply them after you activate the child theme using the theme customizer, or by using the \"Live Preview\" under Appearance &gt; Themes."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Every theme handles options in its own way. Most often, they will create a set of options and store them in the WordPress database. Some options are specific to the active theme (or child theme), and some are specific to the parent theme only (meaning the child theme CANNOT customize them). You will have to find out from the theme author which are which."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For most users the Child Theme Configurator can be found under \"Tools &gt; Child Themes.\""
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "WordPress Multisite (Network) users go to \"Network Admin &gt; Themes &gt; Child Themes.\""
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "NOTE: Only users with \"install_themes\" capability will have access to the Child Theme Configurator."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Click the \"Help\" tab at the top right for a quick reference."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The easiest method is to paste the @import code provided by Google, Font Squirrel or any other Web Font site into the Web Fonts tab. The fonts will then be available to use as a value of the font-family property. Be sure you understand the license for any embedded fonts."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can also create a secondary stylesheet that contains @font-face rules and import it using the Web Fonts tab."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Check the appropriate additional stylesheets under \"Parse additional stylesheets\" on the Parent/Child tab and load the Child Theme again. CTC tries to identify these files by fetching a page from the parent theme, but you may need to set them manually."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Start by clicking the \"Query/Selector\" tab and typing \"base\" in the first box. You can then start typing in the second box to retrieve the style selectors to edit."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You have to load a child theme from the Parent/Child tab for the preview to display. This can also happen when your WP_CONTENT_URL is different than $bloginfo('site_url'). Ajax cannot make cross-domain requests by default. Check that your Settings &gt; General &gt; \"WordPress Address (URL)\" value is correct. (Often caused by missing \"www\" in the domain.)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can make any manual customizations you wish to the stylesheet. Just make sure you import the revised stylesheet using the Parent/Child panel or the Configurator will overwrite your customizations the next time you use it. Just follow the steps as usual but select the \"Use Existing Child Theme\" radio button as the \"Child Theme\" option. The Configurator will automatically update its internal data from the new stylesheet."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The Child Theme Configurator automatically adds a blank functions.php file to the child theme's directory. You can copy parent theme template files using the Files tab. If you want to create new templates and directories you will have to create/upload them manually via FTP or SSH. Remember that a child theme will automatically inherit the parent theme's templates unless they also exist in the child theme's directory. Only copy templates that you intend to customize."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can override a specific CSS value globally using the Property/Value tab. See Property/Value, above."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can add queries and selectors using the \"Raw CSS\" textarea on the Query/Selector tab. See Query/Selector, above."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You shouldn't really \"remove\" a style from the Parent. You can, however, set the property to \"inherit,\" \"none,\" or zero (depending on the property). This will negate the Parent value. Some experimentation may be necessary."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Delete the value from the input for the property you wish to remove. The Child Theme Configurator only adds overrides for properties that contain values."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "We always recommend relying on good cascading design over global overrides. To that end, you have ability to change the load order of child theme custom styles by entering a value in the \"Order\" field. And yes, you can now set properties as important by checking the \"!\" box next to each input. Please use judiciously."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The Child Theme Configurator uses a standardized syntax for gradients and only supports two-color gradients without intermediate stops. The inputs consist of origin (e.g., top, left, 135deg, etc.), start color and end color. The browser-specific syntax is generated automatically when you save these values. See Caveats, below, for more information."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The short answer is to use a responsive Parent Theme. Some common characteristics of responsive design are:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For more information view \"Make a Theme Responsive\":"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "https://www.youtube.com/watch?v=iBiiAgsK4G4"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Override Parent Styles"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Query/Selector Tab"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Adding New Styles"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Property/Value Tab"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Web Fonts Tab"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Files Tab"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Parent Templates"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Child Theme Files"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Child Theme Images"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Child Theme Screenshot"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Export Child Theme as Zip Archive"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Preview and Activate"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Caveats"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Navigate to Appearance &gt; Themes in the WordPress Admin. You will now see the new Child Theme as one of the installed Themes."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Click \"Live Preview\" (theme customizer) below the new Child Theme to see it in action."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "When you are ready to take the Child Theme live, click \"Activate.\""
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Arbitrary comments are not supported. Providing a high level of flexibility for previewing and modifying custom styles requires a sophisticated parsing system. Maintaining comments that bound to any particular element in the stylesheet is prohibitively expensive compared to the value it would add. Although we are working to include this as an option in the future, currently all comments are stripped from the child theme stylesheet code."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Legacy gradient syntax is not supported. The Child Theme Configurator plugin does not support the MS filter gradient or legacy webkit gradient. These will continue to work if they are used in the parent theme, but will not be written to the child theme stylesheet. If there is a demand, we may add it in a future release, but most users should have upgraded by now."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Only two-color gradients. The Child Theme Configurator plugin is powerful, but we have simplified the gradient interface. You can use any gradient you want as long as it has two colors and no intermediate stops."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "No @font-face rules. The Child Theme Configurator plugin only supports @media and @import. If you need other @rules, put them in a separate stylesheet and import them into the Child Theme stylesheet."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Not all CSS properties are customizable. The Child Theme Configurator plugin works with the vast majority of vendor-specific properties, however we’ve left out some of the more obscure options. As with legacy gradients, they will work, but will not be automatically enhanced by the Configurator."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "CSS properties are auto-discovered. The Child Theme Configurator plugin loads the properties that exist in the Parent stylesheet. You can always add new rules using the “Raw CSS” text area."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "There are two ways to identify and customize parent styles. The Child Theme Configurator lets you search styles by CSS selector and by property. If you wish to customize a specific CSS selector (e.g., h1), use the \"Query/Selector\" tab. If you have a specific CSS value you wish to customize site-wide (e.g., the color of the type), use the \"Property/Value\" tab."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "This will load all of the properties for that CSS selector with the Parent values on the left and the child theme values inputs on the right. Any existing child theme values will be automatically populated. There is also a Sample preview that displays the combination of Parent and Child overrides. Note that the border and background-image get special treatment."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The \"Order\" field contains the original sequence of the CSS selector in the parent theme stylesheet. You can change the CSS selector order sequence by entering a lower or higher number in the \"Order\" field. You can also force style overrides (so called \"!important\" flag) by checking the \"!\" box next to each input. Please use judiciously."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Click \"Save\" to update the child theme stylesheet and save your changes to the WordPress admin."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If you wish to add additional properties to a given CSS selector, first load the selector using the Query/Selector tab. Then find the property you wish to override by typing in the New Property autoselect box. Select by clicking with the mouse or by pressing the \"Enter\" or \"Tab\" keys. This will add a new input row to the selector inputs."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If you wish to add completely new CSS selectors, or even new @media queries, you can enter free-form CSS in the \"Raw CSS\" textarea. Be aware that your syntax must be correct (i.e., balanced curly braces, etc.) for the parser to load the new custom styles. You will know it is invalid because a red \"X\" will appear next to the save button."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If you prefer to use shorthand syntax for properties and values instead of the inputs provided by the Child Theme Configurator, you can enter them here as well. The parser will convert your input into normalized CSS code automatically."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The Property/Value tab lets you find specific values for a given property and then edit that value for individual CSS selectors that use that property/value combination. First, find the property you wish to override by typing in the Property autoselect box. Select by clicking with the mouse or by pressing the \"Enter\" or \"Tab\" keys."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "This will load all of the unique values that exist for that property in the parent theme stylesheet with a Sample preview for that value. If there are values that exist in the child theme stylesheet that do not exist in the parent stylesheet, they will be displayed as well."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "For each unique value, click the \"Selectors\" link to view a list of CSS selectors that use that property/value combination, grouped by query with a Sample preview of the value and inputs for the child theme value. Any existing child theme values will be automatically populated."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If you want to edit all of the properties for the CSS selector you can click the “Edit” link and the CSS selector will automatically load in the Query/Selector Tab."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can add additional stylesheets and web fonts by typing @import rules into the textarea on the Web Fonts tab. <strong>Important: do not import the parent theme stylesheet here.</strong> Use the &quot;Parent stylesheet handling&quot; option from the Parent/Child tab."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can copy PHP template files from the parent theme by checking the boxes. Click \"Copy Selected to Child Theme\" and the templates will be added to the child theme's directory."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "CAUTION: If your child theme is active, the child theme's version of the file will be used instead of the parent immediately after it is copied. The functions.php file is generated separately and cannot be copied here."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Templates copied from the parent are listed here. These can be edited using the Theme Editor in the Appearance Menu. Remove child theme images by checking the boxes and clicking \"Delete Selected.\""
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Theme images reside under the <code>images</code> directory in your child theme and are meant for stylesheet use only. Use the media gallery for content images. You can upload new images using the image upload form."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can upload a custom screenshot for the child theme here. The theme screenshot should be a 4:3 ratio (eg., 880px x 660px) JPG, PNG or GIF. It will be renamed \"screenshot\"."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can download your child theme for use on another WordPress site by clicking \"Export\"."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>IMPORTANT: Test child themes before activating!</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>In the worst cases they will break your website when you activate the child theme.</strong>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "<strong>MULTISITE USERS:</strong> You must Network Enable your child theme before you can use Live Preview. Go to \"Themes\" in the Network Admin."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Go to http://www.childthemeconfigurator.com/"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Serbo-Croatian translation courtesy of Borisa Djuraskovic borisad@webhostinghub.com http://www.webhostinghub.com"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Copyright: (C) 2014-2015 Lilaea Media"
+msgstr ""
